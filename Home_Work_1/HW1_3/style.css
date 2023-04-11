@@ -1,0 +1,10 @@
+body{
+    background-image: url("Color.avif");
+    background-size: cover;
+}
+p{
+    width: 60%;
+    background-color: rgba(247, 240, 237, 0.9);
+    margin: 40px 100px;
+    padding: 20px;
+}
