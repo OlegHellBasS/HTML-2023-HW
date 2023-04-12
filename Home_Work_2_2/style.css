@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    height: 200px;
+    background: #fde0c3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: #fc0102;
+}
+.box:hover{
+    background: #7e7e7f;
+    border-radius: 50px;
+}
