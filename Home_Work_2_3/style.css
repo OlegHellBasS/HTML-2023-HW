@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    width: 30%;
+    height: 700px;
+    border: solid black 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center
+}
+.box{
+    width: 95%;
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+#boxw{
+    height: 300px;
+}
+.box2{
+    width: 32%;
+    height: 100%;
+}
+.bg1{
+    background: #236ab8;
+}
+.bg2{
+    background: #164579;
+}
