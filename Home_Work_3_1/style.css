@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+#box1{
+    width: 100vw;
+    height: 100vh;
+    background: #bc6f5a;
+}
+#box2{
+    width: 100vw;
+    height: 100vh;
+    background: #7cdad2;
+}
+#box3{
+    width: 100vw;
+    height: 100vh;
+    background: #39ad5c;
+}
+.boxr{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+    text-align: center;
+}
+a{
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
