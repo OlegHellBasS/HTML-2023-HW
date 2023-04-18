@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 20vh;
+    background: #d8d8d8;
+}
+main{
+    width: 100vw;
+    height: 35vh;
+    background: #b9b4b4;
+}
+section{
+    width: 65%;
+    height: 35vh;
+    background: #979494;
+}
+article{
+    width: 35%;
+    height: 35vh;
+    background: #716b6b;
+}
+footer{
+    width: 100vw;
+    height: 10vh;
+    background: #d8d8d8;
+}
+div{
+    display: flex;
+    width: 100vw;
+}
+nav{
+    width: 100vw;
+    height: 10vh;
+    background: #d8d8d8;
+}
+.box{
+    width: 34vw;
+    height: 80vh;
+}
+.box1{
+    background: #a8a7a7;
+}
+.box2{
+    background: #807b7b;
+}
+.box3{
+    background: #544f4f;
+}
+.boxtexst{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
