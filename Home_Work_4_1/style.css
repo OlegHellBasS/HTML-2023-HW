@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+section{
+    width: 35vw;
+    height: 80vh;
+    box-sizing: border-box;
+    border: solid black 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:60px 0 20px 0 ;
+}
+.section2{
+    height: 12vh;
+    font-size: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+}
+.section2 a{
+    font-size: 20px;
+    margin: 2%;
+}
+.imginst{
+    width: 20vw;
+    height: 12vh;
+    background: url('inst.png') center/cover no-repeat;
+}
+input{
+    width: 95%;
+    height: 60%;
+    margin-top: 5%;
+    border-radius: 5px;
+    padding-left: 9px;
+}
+.form_box{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 2%;
+}
+button a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    width: 63%;
+    height: 10%;
+    background: #68b3f7;
+    border-radius: 10px;
+    border: solid blue 1px;
+    font-size: 170%;
+    margin-top: 5%;
+}
+p{
+    font-size: 2em;
+}
+.facebookbox{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120%;
+}
+.ico{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2%;
+}
+.ico img{
+    width: 100%;
+}
+.facebookbox a{
+    text-decoration: none;
+}
