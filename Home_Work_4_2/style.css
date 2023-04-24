@@ -37,7 +37,7 @@ section{
     padding-top: 10px;
 }
 .button1{
-    width: 81%;
+    width: 350px;
     height: 15%;
     display: flex;
     justify-content: space-between;
@@ -45,8 +45,8 @@ section{
     margin: 5px;
 }
 .logins{
-    width: 80%;
-    height: 15%;
+    width: 350px;
+    height: 30px;
     margin: 10px;
 }
 
