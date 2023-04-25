@@ -4,3 +4,19 @@ body{
 header{
     display: flex;
 }
+header>div.box1>ol>li:nth-child(even){
+    color: pink;
+}
+header>div.box2>ol>li:nth-child(odd){
+    font-size: 20px;
+}
+header>div.box3>ol>li:nth-child(2n+4):after{
+    content: "!";
+}
+header>div.box4>ol>li:last-child{
+    color: #6900C6;
+}
+header>div.box5>ol>li:first-child:first-letter{
+    font-size: 30px;
+    color: red;
+}
