@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border_radius_and_solid{
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #d7d7d7;
+}
+header{
+    width: 99vw;
+    height: 99vh;
+    border: solid black 3px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    padding: 1px;
+}
+.a{
+    width: 99%;
+    height: 19%;
+}
+.bcde{
+    width: 78%;
+    height: 78%;
+    flex-wrap: wrap;
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.f{
+    width: 20%;
+    height: 78%;
+}
+.b{
+    width: 100%;
+    height: 49%;
+}
+.cde{
+    width: 33%;
+    height: 49%;
+}

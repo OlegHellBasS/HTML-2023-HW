@@ -1,0 +1,26 @@
+@media screen and (max-width: 320px) {
+    .a {
+        height: 10%;
+        margin-top: 45%;
+    }
+
+    .bcde {
+        width: 99%;
+        height: 37%;
+    }
+
+    .f {
+        width: 99%;
+        height: 10%;
+        margin-bottom: 45%;
+    }
+
+    .cde {
+        width: 32%;
+        height: 34%;
+    }
+
+    .b {
+        height: 65%;
+    }
+}
